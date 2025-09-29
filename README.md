@@ -24,7 +24,8 @@
    を押すことで、以下の情報が [turbowarpプロジェクト](https://turbowarp.org/1222424634) に送信されます：  
    - 加速度値  
    - 計測震度  
-   - 端末位置情報  
+   - 端末位置情報
+
 詳しくは[提供する情報について](https://github.com/anesewo/Shindokeisoku?tab=readme-ov-file#%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E6%83%85%E5%A0%B1%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)をお読みください
 
 ---
