@@ -92,3 +92,9 @@ websocet接続でturbowarpのサーバーに接続し変数として取得した
 - 近似フィルター
   [scratchプロジェクト加速度からリアルタイム震度の計算](https://scratch.mit.edu/projects/863776132/)
 
+
+## 問い合わせ
+このプロジェクトに関する問い合わせは以下の場所で対応できます。  
+
+- [Googleフォーム](https://forms.gle/Dd79ZFvvnXAMeEEq8)  
+- [製作者X](https://x.com/aseneo2)
