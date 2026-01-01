@@ -9,7 +9,7 @@
 
 
 ## 使い方
-1. [ウェブサイト](https://anesewo.github.io/Shindokeisoku/) にアクセスしてください。  
+1. [ウェブサイト](https://anesewo.github.io/P2Pkyousin/) にアクセスしてください。  
    （※一部端末やブラウザでは使用できない場合があります）  
 
 2. 画面上には以下が表示されます：
@@ -32,7 +32,7 @@
    - 情報送信時刻
    - 過去10秒間の各方向の波形　　
 
-  詳しくは[提供する情報について](https://github.com/anesewo/Shindokeisoku?tab=readme-ov-file#%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E6%83%85%E5%A0%B1%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)をお読みください
+  詳しくは[提供する情報について](https://github.com/anesewo/P2Pkyousin?tab=readme-ov-file#%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E6%83%85%E5%A0%B1%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)をお読みください
 
 
 
@@ -48,10 +48,10 @@
 
 ## データの閲覧方法
 
-[P2P強震モニタturbowarp版](https://turbowarp.org/1222718936)または[P2P強震モニタパッケージ版](https://anesewo.github.io/Shindokeisoku/monitor)にアクセスすることで上記のように提供された情報を視覚的に理解できます。   
+[P2P強震モニタturbowarp版](https://turbowarp.org/1222718936)または[P2P強震モニタパッケージ版](https://anesewo.github.io/P2Pkyousin/monitor)にアクセスすることで上記のように提供された情報を視覚的に理解できます。   
   
 ※これらは製作者が想定した利用例の一部です。データ利用は自由ですが、この方法に限るものではありません。ただし利用する場合はturbowarpのクラウド変数の規約を守ると共に利用者に迷惑が掛からない使用をお願いします。  
-  具体的な利用方法は[データの利用方法](https://github.com/anesewo/Shindokeisoku?tab=readme-ov-file#%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95)をお読みください
+  具体的な利用方法は[データの利用方法](https://github.com/anesewo/P2Pkyousin?tab=readme-ov-file#%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95)をお読みください
 
 
 ## 免責事項
@@ -114,5 +114,6 @@ EW方向の10秒前のデータを得たい場合はまず27~最後までの桁�
 
 - [Googleフォーム](https://forms.gle/Dd79ZFvvnXAMeEEq8)  
 - [製作者X](https://x.com/aseneo2)
+
 
 
